@@ -1,0 +1,6 @@
+node_modules
+bundled
+presentation.zip
+index.pdf
+.idea/*
+.DS_Store
